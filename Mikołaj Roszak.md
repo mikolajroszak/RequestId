@@ -1,5 +1,12 @@
 # RequestId
-&lt;RequestId>X3N5K3NCP95Y9B2X&lt;/RequestId>
+&lt;RequestId>Mikołaj Roszak
+Przedwiośnie 79/12
+73-110 Stargard
+Web: www.mikolaj.com
+email me: ul.echo12@gmail.com
+          mikolaj@mikolaj.com
+skype: mikolajroszak_1
+Tel. +48 500 487 977/RequestId>
 Privacy Policy
 Last updated: February 27, 2021
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
