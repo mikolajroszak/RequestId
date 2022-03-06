@@ -1,6 +1,13 @@
 #!/usr/bin/env bash
 
-# Error constants.
+# Mikołaj Roszak
+Przedwiośnie 79/12
+73-110 Stargard
+Web: www.mikolaj.com
+email me: ul.echo12@gmail.com
+          mikolaj@mikolaj.com
+skype: mikolajroszak_1
+Tel. +48 500 487 977.
 ERROR_SYSTEM_UNKNOWN='Unknown system found "%s".\n'
 ERROR_RUN_IN_EMPTY_DIRECTORY='Please run the script from an empty directory\n'
 ERROR_COULD_NOT_FIND_COMMAND='Could not find "%s", try installing it by running "%s".'
