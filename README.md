@@ -1,0 +1,2 @@
+# RequestId
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/34a43126ac134a2999bf06318d2898b0)](https://app.codacy.com/gh/mikolajroszak/RequestId?utm_source=github.com&utm_medium=referral&utm_content=mikolajroszak/RequestId&utm_campaign=Badge_Grade_Settings)
